@@ -39,7 +39,6 @@ Feel free to reach out for a quick chat:
 ![UPF Power Intent](https://img.shields.io/badge/UPF-4169E1?style=for-the-badge)
 ![Clock Gating](https://img.shields.io/badge/Clock_Gating-2F4F4F?style=for-the-badge)
 
-### Protocols
 ![AMBA Protocols](https://img.shields.io/badge/AMBA_Protocols-E65100?style=for-the-badge)
 ![Serial Protocols](https://img.shields.io/badge/Serial_Protocols-6A1B9A?style=for-the-badge)
 
