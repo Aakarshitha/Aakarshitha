@@ -20,7 +20,7 @@ Feel free to reach out for a quick chat:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakarshitha.s@gmail.com)
 
 
-## 🛠️ Here are the core technologies, verification methodologies, and EDA toolchains I work with:
+## 🛠️ Here are my current key skills:
 
 ### Design Skills & Protocols
 ![RTL Design](https://img.shields.io/badge/RTL_Design-FF6F00?style=for-the-badge)
