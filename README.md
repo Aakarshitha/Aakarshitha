@@ -40,12 +40,9 @@ Feel free to reach out for a quick chat:
 ![Clock Gating](https://img.shields.io/badge/Clock_Gating-2F4F4F?style=for-the-badge)
 
 ### Protocols
-![AXI4](https://img.shields.io/badge/AXI4-E65100?style=for-the-badge)
-![AHB](https://img.shields.io/badge/AHB-1565C0?style=for-the-badge)
-![APB](https://img.shields.io/badge/APB-2E7D32?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-6A1B9A?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-C62828?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-00838F?style=for-the-badge)
+![AMBA Protocols](https://img.shields.io/badge/AMBA_Protocols-E65100?style=for-the-badge)
+![Serial Protocols](https://img.shields.io/badge/Serial_Protocols-6A1B9A?style=for-the-badge)
+
 ![RISC-V](https://img.shields.io/badge/RISC--V_(RV32I)-61DAFB?style=for-the-badge&logo=riscv&logoColor=black)
 
 ### Languages
