@@ -63,6 +63,6 @@ Feel free to reach out for a quick chat:
 ![Synopsys Verdi](https://img.shields.io/badge/Synopsys_Verdi-8E24AA?style=for-the-badge)
 ![Synopsys SpyGlass](https://img.shields.io/badge/Synopsys_SpyGlass-008080?style=for-the-badge)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakarshitha&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakarshitha&show_icons=true&theme=radial)
