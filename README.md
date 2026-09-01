@@ -22,17 +22,7 @@ Feel free to reach out for a quick chat:
 
 ## 🛠️ Here are the core technologies, verification methodologies, and EDA toolchains I work with:
 
-### Verification
-![UVM](https://img.shields.io/badge/UVM-00599C?style=for-the-badge&logo=microchip&logoColor=white)
-![PyUVM](https://img.shields.io/badge/PyUVM-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SystemVerilog Assertions](https://img.shields.io/badge/SVA-00599C?style=for-the-badge&logo=v&logoColor=white)
-![Functional Coverage](https://img.shields.io/badge/Functional_Coverage-4B0082?style=for-the-badge)
-![Constrained Random Verification](https://img.shields.io/badge/CRV-2E8B57?style=for-the-badge)
-![Scoreboarding](https://img.shields.io/badge/Scoreboarding-D2691E?style=for-the-badge)
-![Reference Modeling](https://img.shields.io/badge/Reference_Modeling-4682B4?style=for-the-badge)
-
-### Design & Signoff
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=v&logoColor=white)
+### Design Skills & Protocols
 ![RTL Design](https://img.shields.io/badge/RTL_Design-FF6F00?style=for-the-badge)
 ![CDC / RDC](https://img.shields.io/badge/CDC%2FRDC-8B008B?style=for-the-badge)
 ![SpyGlass Lint](https://img.shields.io/badge/Spyglass_Lint-008080?style=for-the-badge)
@@ -42,6 +32,14 @@ Feel free to reach out for a quick chat:
 ![AMBA Protocols](https://img.shields.io/badge/AMBA_Protocols-E65100?style=for-the-badge)
 ![Serial Protocols](https://img.shields.io/badge/Serial_Protocols-6A1B9A?style=for-the-badge)
 ![RISC-V](https://img.shields.io/badge/RISC--V_(RV32I)-61DAFB?style=for-the-badge&logo=riscv&logoColor=black)
+
+### Verification Skills
+![UVM](https://img.shields.io/badge/UVM-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog Assertions](https://img.shields.io/badge/SVA-00599C?style=for-the-badge&logo=v&logoColor=white)
+![Functional Coverage](https://img.shields.io/badge/Functional_Coverage-4B0082?style=for-the-badge)
+![Constrained Random Verification](https://img.shields.io/badge/CRV-2E8B57?style=for-the-badge)
+![PyUVM](https://img.shields.io/badge/PyUVM-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
