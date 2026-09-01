@@ -41,7 +41,6 @@ Feel free to reach out for a quick chat:
 
 ![AMBA Protocols](https://img.shields.io/badge/AMBA_Protocols-E65100?style=for-the-badge)
 ![Serial Protocols](https://img.shields.io/badge/Serial_Protocols-6A1B9A?style=for-the-badge)
-
 ![RISC-V](https://img.shields.io/badge/RISC--V_(RV32I)-61DAFB?style=for-the-badge&logo=riscv&logoColor=black)
 
 ### Languages
