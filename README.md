@@ -39,7 +39,7 @@ Feel free to reach out for a quick chat:
 ![UPF Power Intent](https://img.shields.io/badge/UPF-4169E1?style=for-the-badge)
 ![Clock Gating](https://img.shields.io/badge/Clock_Gating-2F4F4F?style=for-the-badge)
 
-### Protocols & Software
+### Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-E65100?style=for-the-badge)
 ![AHB](https://img.shields.io/badge/AHB-1565C0?style=for-the-badge)
 ![APB](https://img.shields.io/badge/APB-2E7D32?style=for-the-badge)
@@ -47,9 +47,10 @@ Feel free to reach out for a quick chat:
 ![UART](https://img.shields.io/badge/UART-C62828?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-00838F?style=for-the-badge)
 ![RISC-V](https://img.shields.io/badge/RISC--V_(RV32I)-61DAFB?style=for-the-badge&logo=riscv&logoColor=black)
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-135F9B?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
